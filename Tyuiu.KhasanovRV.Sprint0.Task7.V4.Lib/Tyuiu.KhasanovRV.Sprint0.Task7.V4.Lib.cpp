@@ -24,5 +24,4 @@ class Service1 :public ISprint0Task7
 
 		return false;
 	};
-
 };

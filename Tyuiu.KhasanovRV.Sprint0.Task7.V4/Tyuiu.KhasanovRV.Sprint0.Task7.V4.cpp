@@ -25,7 +25,6 @@ int main()
     {
         cout << "Данной цифры нет в вашем числе\n";
     };
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
